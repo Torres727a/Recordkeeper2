@@ -6,7 +6,7 @@ public class torresProfileTest {
     @Test
     public void printMyProfile() {
         String myName = "Lance";
-        String petName = "Cervantess";
+        String petName = "Cervantes";
         String favFood = "Pagpag";
         int myAge = 17;
 
