@@ -1,13 +1,12 @@
-torresProfileTest.javatorresProfileTest.javapackage com.example.recordkeeper.quarter2;
-
+package com.example.recordkeeper.quarter2;
 import org.junit.Test;
+public class keithProfile {
 
-public class torresProfileTest {
     @Test
     public void printMyProfile() {
-        String myName = "Lance";
-        String petName = "Cervantes";
-        String favFood = "Pagpag";
+        String myName = "keith";
+        String petName = "ngeti";
+        String favFood = "adobong isaw";
         int myAge = 17;
 
         System.out.println("--- MY DIGITAL PROFILE---");
@@ -15,4 +14,7 @@ public class torresProfileTest {
         System.out.println("I have a wonderful pet named " + petName +".");
         System.out.println("If I could, I would eat " + favFood + " every single day!");
     }
+}
+
+
 }
